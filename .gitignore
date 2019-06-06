@@ -1,0 +1,6 @@
+neem/test
+.idea
+data
+*~
+*.pyc
+experiences/
